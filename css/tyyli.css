@@ -1,0 +1,121 @@
+div {
+    overflow-x: auto;
+}
+h1 {
+    
+    display: unset;
+    margin: 50px 50px 50px 50px;
+    font-family: verdana;
+    font-size: 27px;
+    color:white;
+
+    
+}
+header {
+    text-align: center;
+    font-size: 400%;
+    font-family: verdana;
+    color:white;
+    
+}   
+p {
+    margin: 20px 50px 20px 50px;
+    font-family: verdana;
+    color:white;
+}
+li {
+    margin: 5px 50px 5px 50px;
+    font-family: verdana;
+    color:white;
+}
+h3{ 
+    
+    display: unset;
+    margin: 50px 50px 0px 50px;
+    font-family: verdana;
+    font-size: 18px;
+    color:white;
+}
+h2 {
+    color:white;
+    display: unset;
+    margin: 50px 2000px 0px 50px;
+    font-family: verdana;
+    font-size: 18px;
+    
+}
+h4{
+    font-size: 11px;
+    font-family: Verdana;
+    margin: 30px 0px 0px 50px;
+    color:white;
+}
+h5{
+    font-size: 16px;
+    font-family: Verdana;
+    margin: 30px 0px 30px 50px;
+    color:white;
+}
+p1{
+    margin: 0px 50px 0px 50px;
+    font-family: verdana;
+    color:white;
+}
+#oppilas{
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 50%;
+    border-collapse: collapse;
+}
+#oppilas th{
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    text-align: left;
+}
+#oppilas th {
+    border: 1px solid rgb(0, 0, 0);
+    padding: 8px;
+}
+#oppilas td {
+    padding-top: 2px;
+    padding-bottom: 2px;
+    text-align: left;
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    text-align: left;
+}
+body{
+    background-color: #333;
+}
+
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
+
+

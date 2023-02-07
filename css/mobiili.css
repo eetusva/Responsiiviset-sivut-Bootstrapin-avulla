@@ -1,0 +1,140 @@
+@media only screen and (max-width: 800px){
+
+}
+
+
+
+div {
+    overflow-x: auto;
+}
+h1 {
+    
+    display: block;
+    margin: 15px 25px 15px 25px;
+    font-family: verdana;
+    font-size: 22px;
+    color:white;
+    
+
+    
+}
+header {
+    text-align: center;
+    font-size: 250%;
+    font-family: verdana;
+    color:white;
+    
+}   
+p {
+    margin: 10px 25px 10px 25px;
+    font-family: verdana;
+    color:white;
+}
+li {
+    margin: 5px 25px 5px 25px;
+    font-family: verdana;
+    color:white;
+}
+h3{ 
+    
+    display: block;
+    margin: 30px 25px 30px 25px;
+    font-family: verdana;
+    font-size: 16px;
+    color:white;
+}
+h2 {
+    color:#333;
+    display: block;
+    margin: 20px 25px 20px 25px;
+    font-family: verdana;
+    font-size: 8px;
+    
+}
+h4{
+    font-size: 11px;
+    font-family: Verdana;
+    margin: 20px 25px 20px 25px;
+    color:white;
+}
+h5{
+    font-size: 16px;
+    font-family: Verdana;
+    margin: 15px 25px 15px 25px;
+    color:white;
+}
+h6{
+    display: unset;
+    margin: 25px 100px 25px 25px;
+    font-family: verdana;
+    font-size: 22px;
+    color:white;
+}
+p1{
+    display: block;
+    margin: 10px 25px 5px 25px;
+    font-family: verdana;
+    color:white;
+    overflow: hidden;
+}
+#oppilas{
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 50%;
+    border-collapse: collapse;
+}
+#oppilas th{
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    text-align: left;
+}
+#oppilas th {
+    border: 1px solid rgb(0, 0, 0);
+    padding: 8px;
+}
+#oppilas td {
+    padding-top: 2px;
+    padding-bottom: 2px;
+    text-align: left;
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    text-align: left;
+}
+body{
+    background-color: #333;
+}
+
+
+
+ul {
+    list-style-type: none;
+    margin: 5px;
+    padding: 14px;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    display: block;
+    text-align: inherit;
+    margin: 10px 5px 10px 5px;
+    font-family: verdana;
+    color:white
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: auto;
+    padding: 2px 2px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
+
